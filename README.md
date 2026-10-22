@@ -49,8 +49,8 @@ This question allows users to enter a number and check whether it is lower than,
 | 15 | <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/60a25179-5b49-4844-9d15-7c60397476ae" />|
 | 10.5 | <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/930349e5-05f8-4003-818a-62be2b45b09c" />|
 | abc | <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/683dc79f-4cd5-48fa-b04c-6f4b86a439b9" />|
-| Empty | (<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/08d8991b-8092-4e48-a8ed-f86916606b45" />|
-| Spaces Only | (<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e2e1437f-8493-413a-90da-cdee95215059" />|
+| Empty | <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/08d8991b-8092-4e48-a8ed-f86916606b45" />|
+| Spaces Only | <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e2e1437f-8493-413a-90da-cdee95215059" />|
 
 
 ## Q3: Dynamic Number Generator
